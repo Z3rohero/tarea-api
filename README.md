@@ -35,8 +35,6 @@ composer install
 php artisan serve
 
 ********************************************************
-CADA  RUTA TIENE  4 ENPOINT  GET , POST, PUT Y DELETE 
-************************************************
 
 ESTA API LA CONSUME EN UNA APP EN REACT PARA EL FRONTED
 tambien despliegada en VERCEL 
