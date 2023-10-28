@@ -21,7 +21,7 @@ endpoint protegidas
 
 Para acceder estos enpoints en la peticion  se tiene que manda token en  Hearde que segenera cuando se loguea el usuario
 
-https://api-tarea-frrzc.ondigitalocean.app/api/Task
+https://api-tarea-frrzc.ondigitalocean.app/api/tarea
 https://api-tarea-frrzc.ondigitalocean.app/api/usuarios
 https://api-tarea-frrzc.ondigitalocean.app/api/login
 https://api-tarea-frrzc.ondigitalocean.app/api/logout
